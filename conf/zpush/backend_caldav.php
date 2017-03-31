@@ -12,5 +12,3 @@ define('CALDAV_PATH', '/caldav/calendars/%u/');
 define('CALDAV_PERSONAL', 'PRINCIPAL');
 define('CALDAV_SUPPORTS_SYNC', false);
 define('CALDAV_MAX_SYNC_PERIOD', 2147483647);
-
-?>
