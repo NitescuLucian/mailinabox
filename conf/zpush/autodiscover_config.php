@@ -21,4 +21,3 @@ define('LOGUSERLEVEL', LOGLEVEL);
 
 // the backend data provider
 define('BACKEND_PROVIDER', 'BackendCombined');
-?>
